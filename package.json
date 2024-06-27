@@ -12,6 +12,7 @@
   "dependencies": {
     "aedes": "^0.51.2",
     "mqtt": "^5.7.2",
-    "rxjs": "^7.8.1"
+    "rxjs": "^7.8.1",
+    "socket.io": "^4.7.5"
   }
 }
